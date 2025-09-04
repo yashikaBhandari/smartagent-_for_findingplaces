@@ -59,7 +59,7 @@ Gemini Flash was chosen for **speed, zero-cost, and good integration with LangCh
 ---
 
 ## 📷 Screenshots
-![Demo Image 1](assets/demo1.png)
+![Demo Image 1](assests/demo1.png)
 
 ---
 
