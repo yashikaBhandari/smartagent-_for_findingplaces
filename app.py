@@ -175,3 +175,6 @@ if user_input := st.chat_input("Ask about places near you or in a city..."):
             st.markdown(response["output"])
 
     st.session_state.messages.append({"role": "assistant", "content": response["output"]})
+
+
+    
