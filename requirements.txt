@@ -1,0 +1,6 @@
+streamlit
+streamlit-geolocation
+requests
+python-dotenv
+langchain
+langchain-google-genai
