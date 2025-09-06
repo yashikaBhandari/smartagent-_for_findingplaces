@@ -82,9 +82,24 @@ pip install -r requirements.txt
 ```
 
 4. Run locally
-5.  GO and search for queries like : Restraunts near me 
+
 
 ```bash
 
 streamlit run app.py
 ```
+
+
+5. <h2> search for any query of your choice ,u can also  give access to your location : </h2> 
+
+" Restraunts near me "
+" hospitals near me "
+" re there any ATMs near me? ”
+
+"Show me cafes in Mohali"
+
+“Colleges in Ludhiana”
+
+“Bookstores in Shimla”
+
+“Gyms in Delhi”
