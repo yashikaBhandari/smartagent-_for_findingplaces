@@ -64,22 +64,27 @@ Gemini Flash was chosen for **speed, zero-cost, and good integration with LangCh
 ---
 
 ## ⚙️ Setup Instructions
-1. Clone this repo  
+1. Clone this repo
+
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-Create a .env file
+3. Create a .env file
 
-env
-Copy code
+```bash
+
 GOOGLE_API_KEY=your_api_key_here
-Install dependencies
+```
+3. Install dependencies
+```bash
 
-bash
-Copy code
 pip install -r requirements.txt
-Run locally
+```
 
-bash
-Copy code
+4. Run locally
+5.  GO and search for queries like : Restraunts near me 
+
+```bash
+
 streamlit run app.py
+```
